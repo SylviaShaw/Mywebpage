@@ -5,3 +5,14 @@ title: "Introduction of Wenyi Xiao"
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 I work with [Guillaume Rousselet](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/guillaumerousselet/).
+
+name: "mywebpage"  
+author: "SylviaShaw"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: simplex 
+    css: style.css
+navbar:  
+  title: "My First Webpage" 
