@@ -31,8 +31,8 @@ I studied with my supervisor, Dr Guillaume Rousselet. My research focuses on the
 ###Dr Guillaume Rousselet
   *Senior Lecturer (Centre for Cognitive Neuroimaging)
   *Senior Lecturer (Psychology)
-telephone: 01413306652
-email: Guillaume.Rousselet@glasgow.ac.uk
+  *telephone: 01413306652
+  *email: Guillaume.Rousselet@glasgow.ac.uk
   *After a degree in biology & ecology (Amiens, France, 1997), a degree in cognitive science (Marseille, France, 1999), and a Ph.D. in cognitive science under the supervision of Michèle Fabre-Thorpe (Cerco, Toulouse, France, 2003), he worked with Patrick Bennett and Allison Sekuler as a postdoctoral fellow (McMaster University, Hamilton, ON, Canada). He joined the University of Glasgow in September 2006. His research focuses on the fast visual processing of objects, faces, and natural scenes and how it is affected by ageing. He is also researching into ways to improve behavioural and ERP data analyses and the quantification of individual differences.He is an associate editor at the European Journal of Neuroscience.
 
 ##DISSERTATION
