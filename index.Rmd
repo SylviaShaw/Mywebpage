@@ -12,4 +12,30 @@ Research interests: face perception and neurosciences.
 Dissertation: EEG correlates of face perception—comparing 2D with 3D faces. 
 
 
+![image](https://github.com/SylviaShaw/Mywebpage/blob/master/photo.jpg)
+
+##EDUCATION & AWARDS
+*University of Glasgow (Sep.2018-Aug.2019), Glasgow, United Kingdom, MSc in Research Method of Psychological Sciences
+
+*Shenzhen University (Oct.2014- July.2018), Shenzhen, China, Major in Applied Psychology, Achieved Bachelor’s degree of Science with honors
+
+*Won the Third Prize in Challenge Cup Academic & Technology Works in Shenzhen University in 2015.
+
+*Bao’an Middle School (Sep.2011-Jul.2014), Shenzhen, China-- Ranked 10th among 60 students in Advanced Program Class
+
+
+##RESEARCH INTEREST
+I studied with my supervisor, Dr Guillaume Rousselet. My research focuses on the early visual processing of objects and faces in natural setting and how it is affected by luminance, size of stimuli and different position of stimuli.
+
+##SUPERVISOR
+###Dr Guillaume Rousselet
+  *Senior Lecturer (Centre for Cognitive Neuroimaging)
+  *Senior Lecturer (Psychology)
+telephone: 01413306652
+email: Guillaume.Rousselet@glasgow.ac.uk
+  *After a degree in biology & ecology (Amiens, France, 1997), a degree in cognitive science (Marseille, France, 1999), and a Ph.D. in cognitive science under the supervision of Michèle Fabre-Thorpe (Cerco, Toulouse, France, 2003), he worked with Patrick Bennett and Allison Sekuler as a postdoctoral fellow (McMaster University, Hamilton, ON, Canada). He joined the University of Glasgow in September 2006. His research focuses on the fast visual processing of objects, faces, and natural scenes and how it is affected by ageing. He is also researching into ways to improve behavioural and ERP data analyses and the quantification of individual differences.He is an associate editor at the European Journal of Neuroscience.
+
+##DISSERTATION
+ *EEG correlates of face perception—comparing 2D with 3D faces
+Using EEG to record ERPs signals in response to early faces processing with 3D face stimuli and compare the results with 2D face stimuli with different levels of luminance, size of stimuli and positions of stimuli.
 
